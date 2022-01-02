@@ -1,35 +1,61 @@
 [
 	{
-		"name": "soren, nietzche, chuang tzu, schopanehuer, diogenes, albert einstein, carl jung, aristotle"
-	},
-	
-	{
 		"name": "Zhuangzhi",
 		"image": "https://www.oshonews.com/wp-content/uploads/2020/12/Chuang-Tzu-dreaming.jpg"
 	},
 
 	{
 		"name": "Soren",
-		"image":https://www.oshonews.com/wp-content/uploads/2020/12/Chuang-Tzu-dreaming.jpg"
+		"image":"https://m.media-amazon.com/images/M/MV5BODM4YzFjZTAtOTMyZS00NDNlLThlZWMtOGNlYTliOTZhNjI1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg"
 	},
 
 	{
-		"name": "Zhuangzhi",
-		"image": "https://www.oshonews.com/wp-content/uploads/2020/12/Chuang-Tzu-dreaming.jpg"
+		"name": "Nietzsche",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nietzsche187c.jpg"
 	},
 
 	{
-		"name": "Zhuangzhi",
-		"image": "https://www.oshonews.com/wp-content/uploads/2020/12/Chuang-Tzu-dreaming.jpg"
+		"name": "Schopenhauer",
+		"image": "https://i2.wp.com/blog.apaonline.org/wp-content/uploads/2020/09/Schopenhauer.jpg?fit=750%2C500&ssl=1"
 	},
 
 	{
-		"name": "Zhuangzhi",
-		"image": "https://www.oshonews.com/wp-content/uploads/2020/12/Chuang-Tzu-dreaming.jpg"
+		"name": "Diogenes",
+		"image": "https://img.theepochtimes.com/assets/uploads/2020/09/09/9_16_Waterhouse-Diogenes_-1200x967.jpg"
 	},
 
 	{
-		"name": "Zhuangzhi",
-		"image": "https://www.oshonews.com/wp-content/uploads/2020/12/Chuang-Tzu-dreaming.jpg"
+		"name": "Jung",
+		"image": "https://www.biography.com/.image/t_share/MTE5NTU2MzE2MjY4NjkzMDAz/carl-jung-9359134-1-402.jpg"
 	},
+
+	{
+		"name": "Einstein",
+		"image": "https://www.biography.com/.image/t_share/MTc5ODc5NjY5ODU0NjQzMzIy/gettyimages-3091504.jpg"
+	},
+
+	{
+		"name": "Aristotle",
+		"image": "https://cdn.britannica.com/84/87984-050-7C5547FE/Detail-Roman-copy-portrait-bust-Aristotle-Greek.jpg"
+	},
+
+	{
+		"name": "Camus",
+		"image": "https://media.newyorker.com/photos/5909675d019dfc3494ea0dd0/master/pass/120409_r22060_g2048.jpg"
+	},
+
+	{
+		"name": "Plato",
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/plato-1595333639.jpg?crop=0.5066882853668423xw:1xh;center,top&resize=640:*"
+	},
+
+	{
+		"name": "LaoTzu",
+		"image": "https://www.thefamouspeople.com/profiles/images/lao-tzu-laozi-10.jpg"
+	},
+
+	{
+		"name": "Guatama",
+		"image": "http://lolering.files.wordpress.com/2009/02/gautama-buddha.jpg"
+	}
 ]
