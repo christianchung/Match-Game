@@ -30,7 +30,7 @@ class App extends Component {
 
       if(findCharacter === undefined) {
           this.setState({ 
-              message: "You guessed incorrectly! ",
+              message: "You guessed incorrectly!",
               topScore: (this.state.curScore > this.state.topScore) ? this.state.curScore : this.state.topScore,
               curScore: 0,
               characters: characters,
@@ -42,7 +42,7 @@ class App extends Component {
           const newCharacters = this.state.unselectedCharacters.filter(item => item.name !== name);
           
           this.setState({ 
-              message: "You guessed correctly! ",
+              message: "You guessed correctly!",
               curScore: this.state.curScore + 1,
               characters: characters,
               unselectedCharacters: newCharacters
