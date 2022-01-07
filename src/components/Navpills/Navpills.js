@@ -5,9 +5,9 @@ const Navpills = props => (
 	<div>
 		<ul className ="nav nav-pills nav-justified">
 			<li
-				className={props.message.indexOf('incorrectly') !== -1 ?
+				className={props.message.indexOf('incorrectly ') !== -1 ?
 				"desc-incorrect":
-				props.message.indexOf('correctly') !== -1 ?
+				props.message.indexOf('correctly ') !== -1 ?
 					"desc-correct" :
 				"desc-normal"}
 			>

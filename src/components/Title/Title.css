@@ -6,7 +6,7 @@
     min-height: 280px;
     text-align: center;
     vertical-align: center;
-    font-family: 'Holtwood One SC', serif;
+    font-family: 'Holtwood One SC', cursive;
     color: #fff;
     text-shadow: 0 0 5px #000;
     margin-bottom: 20px;
@@ -20,3 +20,4 @@
 .titlebox p {
     font-size: 1.8em;
 }
+
