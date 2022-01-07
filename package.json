@@ -1,6 +1,6 @@
 {
   "homepage": "https://christianchung.github.io/Match-Game/",
-  "name": "my-app",
+  "name": "Match-Game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
